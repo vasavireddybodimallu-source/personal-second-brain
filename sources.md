@@ -1,55 +1,35 @@
-# Information Sources
+# Source List
 
-## High-Signal Sources
+## High-Signal Sources ⭐
 
-### 1. GitHub ⭐
+1. GitHub — LLM Evaluation
+   https://github.com/amitbad/llm-evaluation
 
-Purpose:
-- Discover useful AI/LLM projects
-- Study implementation approaches
-- Find tools and open-source projects
+2. 100xEngineers — Advanced RAG Practice Set
+   High signal because it directly relates to the LLM/RAG skills I am building.
 
-Why high signal:
-GitHub provides practical code that can directly help me build my own AI applications.
+## Sources
 
-### 2. YouTube ⭐
+| # | Source | Type | Priority |
+|---|---|---|---|
+| 01 | RAG Example | GitHub | High |
+| 02 | LLM Evaluation | GitHub | High |
+| 03 | CRAG | GitHub | Medium |
+| 04 | MIRAGE | GitHub | Medium |
+| 05 | RAG Evaluation Tool | GitHub | High |
+| 06 | RAG Application Tutorial | YouTube | High |
+| 07 | RAG + LangChain | YouTube | Medium |
+| 08 | Function Tool Calling + MCP | 100xEngineers | High |
+| 09 | Advanced RAG Practice Set | 100xEngineers | High |
+| 10 | AI Bottlenecks Project | Personal Project | High |
 
-Purpose:
-- Learn AI/LLM implementation
-- Learn new technologies
-- Find project tutorials
+## Consciously Cut
 
-Why high signal:
-Tutorials can directly improve my ability to build AI applications.
+### Generic AI News / AI Hype Feeds
 
----
-
-## Other Sources
-
-### LinkedIn
-
-Purpose:
-- Find AI opportunities
-- Follow AI developers and companies
-- Understand industry trends
-
-### 100xEngineers LMS
-
-Purpose:
-- Learn LLM and context engineering concepts
-- Follow the course material
-
-### Personal Notes
-
-Purpose:
-- Store things I learn
-- Record useful ideas and observations
-
----
-
-## Source Consciously Cut
-
-### Instagram ❌
+I consciously decided not to ingest generic AI news and hype content.
 
 Reason:
-The information I encounter there is less actionable for my North Star compared with GitHub and YouTube.
+It may be interesting, but it does not directly help me build, evaluate
+or launch AI/LLM applications. Adding more sources would increase noise
+without helping my North Star.

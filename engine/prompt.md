@@ -25,33 +25,25 @@ Can I apply the information while building a real project?
 
 ### 3. Skill Development
 Does it improve an important AI/LLM/software development skill?
-
 ### 4. Opportunity Value
 Could it help me find an internship, users, collaborators or useful
 industry opportunities?
-
 ### 5. Actionability
 Can I take a clear action after learning this information?
-
 ## Scoring
-
 9-10 = Extremely relevant and actionable
 7-8 = Highly relevant
 5-6 = Moderately relevant
 3-4 = Low relevance
 0-2 = Not relevant
-
 ## Output
-
 For each item provide:
-
 - Title
 - Score / 10
 - Category
 - Why it received this score
 - Recommended action
 - Priority: HIGH / MEDIUM / LOW
-
 ## Important Rule
 
 Do not give a high score simply because an item is about AI.
